@@ -14,7 +14,7 @@ Below is a UI representation of the currently available answer formats of Resear
 |  <img src="https://raw.githubusercontent.com/cph-cachet/research.package/gh-pages/assets/images/SingleChoiceStep.png"> |  <img src="https://raw.githubusercontent.com/cph-cachet/research.package/gh-pages/assets/images/MultiChoiceStep.png"> |   <img src="https://raw.githubusercontent.com/cph-cachet/research.package/gh-pages/assets/images/IntegerStep.png">|
 |:-:|:-:|:-:|
 | Single Choice  |Multiple Choice   |  Integer |
-| <img src="https://raw.githubusercontent.com/cph-cachet/research.package/gh-pages/assets/images/DateStep.png">  | <img src="https://raw.githubusercontent.com/cph-cachet/research.package/gh-pages/assets/images/DateTimeStep.png">  |  <img src="https://raw.githubusercontent.com/cph-cachet/research.package/gh-pages/assets/images/DateTimeAnswerFormat_TimeOfDay.png"> |
+| <img src="https://raw.githubusercontent.com/cph-cachet/research.package/gh-pages/assets/images/DateStep.png">  | <img src="https://raw.githubusercontent.com/cph-cachet/research.package/gh-pages/assets/images/DateTimeStep.png">  |  <img src="https://raw.githubusercontent.com/cph-cachet/research.package/gh-pages/assets/images/TimeStep.png"> |
 | Date and Time (Date Answer Style)  | Date and Time (Date and Time Answer Style)  |  Date and Time (Time of Day Answer Style) |
 | <img src="https://raw.githubusercontent.com/cph-cachet/research.package/gh-pages/assets/images/ImageStep.png">  |  <img src="https://raw.githubusercontent.com/cph-cachet/research.package/gh-pages/assets/images/ScaleStep.png"> |  <img src="https://raw.githubusercontent.com/cph-cachet/research.package/gh-pages/assets/images/FreeTextStep.png"> |
 | Image Choice  | Slider  | Free Text  |
