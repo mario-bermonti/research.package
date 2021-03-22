@@ -174,3 +174,12 @@ Widget build(BuildContext context) {
    );
 }
 ```
+
+
+## Examples
+
+|  <img src="https://raw.githubusercontent.com/cph-cachet/research.package/gh-pages/assets/images/ConsentOverview.png"> |  <img src="https://raw.githubusercontent.com/cph-cachet/research.package/gh-pages/assets/images/ConsentOverviewLearnMore.png"> |   <img src="https://raw.githubusercontent.com/cph-cachet/research.package/gh-pages/assets/images/ConsentOverview.png">|
+|:-:|:-:|:-:|
+| <img src="https://raw.githubusercontent.com/cph-cachet/research.package/gh-pages/assets/images/ConsentAboutUs.png">  | <img src="https://raw.githubusercontent.com/cph-cachet/research.package/gh-pages/assets/images/ConsentDataGathering.png">  |  <img src="https://raw.githubusercontent.com/cph-cachet/research.package/gh-pages/assets/images/ConsentPassiveDataCollection.png"> |
+| <img src="https://raw.githubusercontent.com/cph-cachet/research.package/gh-pages/assets/images/ConsentUserDataCollection.png">  |  <img src="https://raw.githubusercontent.com/cph-cachet/research.package/gh-pages/assets/images/ConsentReview1.png"> | <img src="https://raw.githubusercontent.com/cph-cachet/research.package/gh-pages/assets/images/ConsentReview2.png">  |
+| <img src="https://raw.githubusercontent.com/cph-cachet/research.package/gh-pages/assets/images/ConsentSignature.png">  |   |   |
