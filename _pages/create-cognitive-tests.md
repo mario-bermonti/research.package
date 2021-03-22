@@ -7,6 +7,8 @@ toc: true
 
 > _This expands upon the ["Creating a Survey"](/survey) tutorial, as this is an extension that mimics and relies on many of the survey functionalities. See ["Cognitive Tests"](/cognitive-tests) for a detailed explanation of each test, including how they are implemented, limitations, measurement types and other useful information._
 
+### **_>THE ACTIVE TASKS HAVE BEEN REMOVED UNTIL THE RELEASE OF THE NULL SAFETY VERSION. THEY WILL BE ADDED IN A SEPARATE PACKAGE.<_**
+
 ## Updated Domain Model
 
 ### New Step - The ActivityStep
