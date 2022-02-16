@@ -1,18 +1,18 @@
 main:
-  - title: "Architecture"
-    url: /software-architecture
-  - title: "Tutorials"
-    sublinks:
-      - title: "Obtaining Consent"
-        url: /consent
-      - title: "Creating a Survey"
-        url: /survey
-      - title: "Creating Cognitive Tests"
-        url: /create-cognitive-tests
-  - title: "Answer Formats"
-    url: /answer-formats
-  - title: "Cognitive Tests"
-    url: /cognitive-tests
+  # - title: "Architecture"
+  #   url: /software-architecture
+  # - title: "Tutorials"
+  #   sublinks:
+  #     - title: "Obtaining Consent"
+  #       url: /consent
+  #     - title: "Creating a Survey"
+  #       url: /survey
+  #     - title: "Creating Cognitive Tests"
+  #       url: /create-cognitive-tests
+  # - title: "Answer Formats"
+  #   url: /answer-formats
+  # - title: "Cognitive Tests"
+  #   url: /cognitive-tests
 #  - title: "About"
 #    url: /about-research-package
 ## Sublink as below
