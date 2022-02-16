@@ -1,10 +1,8 @@
-<!-- # Research Package -->
-
 > # **Research Package documentation has moved to [CACHET Research Platform's (CARP) website](https://carp.cachet.dk/research-package/). Here you'll find information, guides and updates for Research Package. Additionally, [Cognition Package](https://carp.cachet.dk/cognition-package/) is back and supports 14 tests!**
 
-[Research Package ![pub package](https://img.shields.io/pub/v/research_package.svg)](https://pub.dartlang.org/packages/research_package)
+[> Research Package ![pub package](https://img.shields.io/pub/v/research_package.svg) ](https://pub.dartlang.org/packages/research_package)
 
-[Cognition Package ![pub package](https://img.shields.io/pub/v/cognition_package.svg)](https://pub.dartlang.org/packages/cognition_package)
+[> Cognition Package ![pub package](https://img.shields.io/pub/v/cognition_package.svg)](https://pub.dartlang.org/packages/cognition_package)
 
 Research Package is a Flutter [package](https://pub.dartlang.org/packages/research_package) for building research study apps on Android and iOS using [Flutter](https://flutter.dev).
 
@@ -18,9 +16,9 @@ The main features of Research Package are:
 - [Creating surveys](https://carp.cachet.dk/creating-a-survey/) and questionnaires with a wide range of answer formats (e.g., likert scale, date pickers, image pickers, etc.), such as the [WHO5](https://www.psykiatri-regionh.dk/who-5/Documents/WHO-5%20questionaire%20-%20English.pdf) survey.
 
 Research Package is part of the overall CACHET Research Platform (CARP) with also provides a Flutter package for mobile and wearable sensing called [CARP Mobile Sensing](https://pub.dev/packages/carp_mobile_sensing).
-The CACHET [Pulmonary Monitor](https://github.com/cph-cachet/pulmonary_monitor_app) app shows how mobile sensing can be combined with collection of survery data from users.
+The CACHET [Pulmonary Monitor](https://github.com/cph-cachet/pulmonary_monitor_app) app shows how mobile sensing can be combined with collection of survey data from users.
 
-Cognitive Package has a series of **14** cognitive tests as part of its library. Some of the cognitive tests are implementations of ReseachKit's ["Active Tasks"](https://www.researchandcare.org/researchkit/). [Detailed information](https://carp.cachet.dk/cognition-package/) about the test is available online. **THESE ARE IN THE COGNTION PACKAGE**, which builds upon Research Package.
+Cognitive Package has a series of **14** cognitive tests as part of its library. Some of the cognitive tests are implementations of ReseachKit's ["Active Tasks"](https://www.researchandcare.org/researchkit/). [Detailed information](https://carp.cachet.dk/cognition-package/) about the tests is available online. **THESE ARE IN THE COGNITION PACKAGE**, which builds upon Research Package.
 
 ## Documentation
 
