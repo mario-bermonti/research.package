@@ -231,7 +231,9 @@ class RPUITaskState extends State<RPUITask> with CanSaveResult {
                 // Popup dismiss
                 Navigator.of(context).pop();
                 // Exit the Ordered Task
-                Navigator.of(context).pop();
+                if (widget.task.closeAfterFinished) {
+                  Navigator.of(context).pop();
+                }
               },
             )
           ],
